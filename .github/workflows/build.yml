@@ -7,7 +7,7 @@ on:
     branches:
       - test_cases
 jobs:
-  test:
+   build:
     name: test
     runs-on: macos-latest
     steps:
